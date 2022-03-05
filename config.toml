@@ -1,4 +1,4 @@
-baseURL = 'http://example.org/'
+baseURL = 'https://victorbuild.github.io/'
 languageCode = 'en-us'
 title = '小盛筆記'
 theme = "papermod"
